@@ -8,7 +8,7 @@ Automate deployment of the Highway website with an Nginx server using Docker ima
 This repository includes scripts to push Docker images to your DockerHub repository and clean up deployment on local machine(optional).
 
 ******************
-![](https://github.com/odennav/nginx-earth/blob/master/Earth.jpeg) 
+![](https://github.com/odennav/nginx-earth/blob/master/earth.jpeg) 
 
 ## Special Credits
 
