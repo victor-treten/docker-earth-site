@@ -4,7 +4,7 @@ Welcome to the repository dedicated to automating the deployment of the Earth we
 
 ## Overview
 
-Automate deployment of the Highway website with an Nginx server using Docker images and containers.
+Automate deployment of the Earth website with an Nginx server using Docker images and containers.
 This repository includes scripts to push Docker images to your DockerHub repository and clean up deployment on local machine(optional).
 
 ******************
