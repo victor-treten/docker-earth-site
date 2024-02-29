@@ -27,19 +27,19 @@ The provided Vagrant file simplifies VM management.
 2. **Install Docker:**
 
    **For Windows:**
-   - If you intend to use git bash with Windows and not linux VM, install chocolatey [here](https://chocolatey.org/install).
+   If you intend to use git bash with Windows and not linux VM, install chocolatey [here](https://chocolatey.org/install).
 
-   - Open powershell terminal and use chocolatey to install git bash.
+   Open powershell terminal and use chocolatey to install git bash.
    
    ```bash
    choco install git
    ```
    
-   - Install Docker Desktop by following the instructions [here](https://docs.docker.com/desktop/install/windows/).
+   Install Docker Desktop by following the instructions [here](https://docs.docker.com/desktop/install/windows/).
 
 
    **For Linux:**
-   - Install Docker Engine by following the instructions [here](https://docs.docker.com/desktop/install/linux/).
+   Install Docker Engine by following the instructions [here](https://docs.docker.com/desktop/install/linux/).
 
 
 3. **Spin up VM:**
@@ -58,7 +58,7 @@ The provided Vagrant file simplifies VM management.
    ```bash
    sudo apt-get install git
    git clone https://github.com/odennav/nginx-earth.git
-   cd nginx-card
+   cd nginx-earth
    ```
 
 6. **Practice with the Scripts:**
