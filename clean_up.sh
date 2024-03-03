@@ -20,7 +20,7 @@ echo -e "\n"
 
 echo "******************************************"
 echo "Deleting earth-image tagged to your docker hub local repository:"
-docker rmi victortreten/repo_test:earth
+docker rmi odennav/nginx:earth
 sleep 5
 echo -e "\n"
 

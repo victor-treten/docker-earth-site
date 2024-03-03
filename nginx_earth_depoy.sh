@@ -49,13 +49,13 @@ echo -e "\n"
 
 echo "**********************************************************"
 echo "Tag image to repository"
-docker tag earth-image:earth victortreten/repo_test:earth
+docker tag earth-image:earth odennav/nginx:earth
 sleep 5
 echo -e "\n"
 
 echo "**********************************************************"
 echo "Push image to Dockerhub"
-docker push victortreten/repo_test:earth
+docker push odennav/nginx:earth
 sleep 5
 echo -e "\n"
 
