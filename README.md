@@ -1,6 +1,6 @@
-# Deploying the Earth Website with Docker and Nginx
+# Deploying the Earth Website with Docker
 
-Deployment automated with bash scripts.
+Deployment automated with bash scripts in test environment.
 
 ## Overview
 
@@ -10,10 +10,6 @@ This repository includes scripts to push Docker images to your DockerHub reposit
 ******************
 ![](https://github.com/odennav/nginx-earth/blob/master/earth.jpeg) 
 
-## Special Credits
-
-Special thanks to [Tooplate](https://https://www.tooplate.com/) for free HTML templates
-and my awesome tutor [IsmailMuhammed2019](https://github.com/IsmailMuhammed2019)
 
 ## Getting Started
 
@@ -57,7 +53,7 @@ The provided Vagrant file simplifies VM management.
 
    ```bash
    sudo apt-get install git
-   git clone https://github.com/odennav/nginx-earth.git
+   git clone https://github.com/odennav/docker-earth-site.git
    cd nginx-earth
    ```
 
